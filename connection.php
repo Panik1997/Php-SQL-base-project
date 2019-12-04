@@ -1,8 +1,8 @@
 <?php
 	
-	$dbUser="japani";
-	$dbPassword="japani135781";
-	$dbDatabase="japani";
+	$dbUser="******";
+	$dbPassword="*******";
+	$dbDatabase="*******";
 	$dbHost="localhost";
 
 ?>
