@@ -1,4 +1,4 @@
-# Php-SQL-base-project
+# Php-SQL-project
 Project shows laboratory tests - plant growth on different soils
 
 - Saving data in SQL Database
